@@ -6,6 +6,8 @@ def peke():
     print("peke3")
     print("tekitou amend")
     print("commit6")
+    print("tekitou2")
+
 
 def main():
     peke()
