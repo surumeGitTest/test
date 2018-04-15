@@ -6,7 +6,7 @@ def peke():
     print("peke3")
     print("tekitou amend")
     print("tekitou2")
-
+    print("tekitou2_hasei")
 
 def main():
     peke()
