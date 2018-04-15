@@ -3,6 +3,8 @@ def peke():
     print("peke")
     print("peke2")
     print("gege")
+    print("peke3")
+    
 
 
 def main():
