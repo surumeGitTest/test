@@ -5,6 +5,7 @@ def peke():
     print("gege")
     print("peke3")
     print("tekitou amend")
+    print("tekitou2")
 
 
 def main():
