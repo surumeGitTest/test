@@ -10,6 +10,7 @@ def peke():
     print("commit6")
     print("commit6-1")
     print("commit6-2")
+    print("commit7 saido")
 
 def main():
     peke()
